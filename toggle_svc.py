@@ -75,7 +75,7 @@ services = get_services_from_cmd_output(o.decode('ascii'))
 
 questions = [inquirer.Checkbox(
     'selected_services',
-    message="What are you interested in?",
+    message="Services to enable/disable",
     choices=services
 )]
 
