@@ -1,4 +1,4 @@
-# toggle_ubuntu_services
+# toggle_ubuntu_services - enable/disable system services
 
 Little script to enable/disable system services on a single shot with a simple toggle/checkbox menu.
 
